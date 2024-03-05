@@ -22,7 +22,7 @@ In addition to IT audit, data science and artificial intelligence, I am also ver
 I am also a governor in the [**@Algorand**](https://algorand.com) blockchain and an ambassador for the [**@Algorand Foundation**](https://www.algorand.foundation/) during my freetime.
 Thus, I’m administrator of [**@AlgorandFrance.com**](https://algorandfrance.com).  
 
-## Thanks for visiting my profile, see you soon!
+## Thanks for visiting my profile, see you soon on my GitHub repository or on my website [**@tovincent.fr**](https://tovincent.fr/)!
 
 <p align="center"> 
    Visitors Count<br>
