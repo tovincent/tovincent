@@ -1,6 +1,6 @@
 ### About me 🙋‍♂️
 
-Hello ! My name is [**Vincent TO**](https://www.linkedin.com/in/vincent-to-129758172/) and I am currently working at the General Inspection of [**@Amundi Asset Management**](https://about.amundi.com/) (Crédit Agricole Group) since September 2023 as an Inspector-Auditor specialized in Data Science & Artificial Intelligence.  
+Hello ! My name is [**Vincent TO**](https://www.linkedin.com/in/vincent-to-129758172/) and I am currently working at the General Inspection of [**@Amundi Asset Management**](https://about.amundi.com/) (Crédit Agricole Group) since September 2023 as an Inspector-Auditor specialized in IT, Data Science & Artificial Intelligence.  
 My work mainly focus on innovative approaches to Audit/Risk Management using Data Science and AI.  
 
 ### Education 🎓
