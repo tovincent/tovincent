@@ -5,6 +5,7 @@ My work mainly focus on innovative approaches to Audit/Risk Management using Dat
 
 ### Education 🎓
 I am currently preparing a Master’s Degree in Network Industries and Digital Economy in collaboration between French top 2 universities ([**@Paris Dauphine University – PSL**](https://dauphine.psl.eu/en/) & [**@Paris-Saclay University**](https://www.universite-paris-saclay.fr/en)) and French top 3 engineering schools ([**@Ecole Polytechnique**](https://www.polytechnique.edu/), [**@Centrale Supélec**](https://www.centralesupelec.fr/en) & [**@Télécom Paris**](https://www.telecom-paris.fr/en/home)).  
+I am also an alumni of Paris Dauphine University – PSL where I graduated a Master's Degree in Computer Science with an IT Audit specialty.  
 I am planning to pursue in PhD in Artificial Intelligence with the French CIFRE program financed by Amundi.
 
 ## GitHub Stats
