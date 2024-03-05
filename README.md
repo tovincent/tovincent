@@ -1,16 +1,27 @@
-### Hi there 👋
+### About me 🙋‍♂️
 
-<!--
-**tovincent/tovincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello ! My name is [**Vincent TO**](https://www.linkedin.com/in/vincent-to-129758172/) and I am currently working at the General Inspection of [**@Amundi Asset Management**](https://about.amundi.com/) (Crédit Agricole Group) since September 2023 as an Inspector-Auditor specialized in Data Science & Artificial Intelligence.  
+My work mainly focus on innovative approaches to Audit/Risk Management using Data Science and AI.  
 
-Here are some ideas to get you started:
+### Education 🎓
+I am currently preparing a Master’s Degree in Network Industries and Digital Economy in collaboration between French top 2 universities ([**@Paris Dauphine University – PSL**](https://dauphine.psl.eu/en/) & [**@Paris-Saclay University**](https://www.universite-paris-saclay.fr/en)) and French top 3 engineering schools ([**@Ecole Polytechnique**](https://www.polytechnique.edu/), [**@Centrale Supélec**](https://www.centralesupelec.fr/en) & [**@Télécom Paris**](https://www.telecom-paris.fr/en/home)).  
+I am planning to pursue in PhD in Artificial Intelligence with the French CIFRE program financed by Amundi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<p align="center">
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tovincent&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="My current contribution streak" src="http://github-readme-streak-stats.herokuapp.com?user=tovincent&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%">
+</p>
+
+## Hobbies
+I’m a pianist since 2006 but also an occasional archer, basketball and table tennis player.
+In addition to IT audit, data science and artificial intelligence, I am also very interested in economy, finance & blockchain technology.
+
+## Thanks for visiting my profile, see you soon!
+
+<p align="center"> 
+   Visitors Count<br>
+   <img src="https://profile-counter.glitch.me/tovincent/count.svg" />
+ </p>
