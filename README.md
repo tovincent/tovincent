@@ -10,7 +10,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 
 ### Programming Languages and Tools 🛠️
 
-**Programming Languages** : Python, SQL, R, Java, Scala, C, C++
+**Programming Languages** : Python, SQL, R, Java, Scala, C, C++  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
