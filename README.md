@@ -66,5 +66,5 @@ Thus, I’m administrator of [**@AlgorandFrance.com**](https://algorandfrance.co
    <img src="https://profile-counter.glitch.me/tovincent/count.svg" />
  </p>
 
-See you soon on my GitHub repository or on my website [**@tovincent.fr**](https://tovincent.fr/) 🔜  
-If you want to reach me, feel free to add me on [**@LinkedIn**](https://www.linkedin.com/in/vincent-to-129758172/)
+See you soon on my GitHub repository or on my website [**@tovincent.fr**](https://tovincent.fr/) 🔜📲  
+If you want to reach me, feel free to add me on [**@LinkedIn**](https://www.linkedin.com/in/vincent-to-129758172/) 🌐
