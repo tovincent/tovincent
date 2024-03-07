@@ -34,6 +34,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent-300x245.png" alt="mariadb" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongodb" width="40" height="40"/></a>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" alt="sqlite" width="40" height="40"/></a>
 
 **Tools** : Docker, Git, GitHub, GitLab, Prometheus, Kubernetes  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
