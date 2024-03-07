@@ -22,6 +22,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 **Data visualization** : Power BI, Tableau, QlikView, Sphinx Dataviv  
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
+<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6448bf6f0640203c982ca15f/6448bf6f06402069cd2ca40f_7.png" alt="qlikview" width="40" height="40"/></a>
 
 **Frameworks** : Django, FastAPI  
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
