@@ -31,7 +31,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 
 **Databases** : PostgreSQL, MariaDB  
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://mariadb.com/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-white.svg" alt="mariadb" width="40" height="40"/></a>
+<a href="https://mariadb.com/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent-300x245.png" alt="mariadb" width="40" height="40"/></a>
 
 **Tools** : Docker, Git, GitHub, GitLab, Prometheus, Kubernetes  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
