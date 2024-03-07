@@ -45,7 +45,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 
 
-### GitHub Stats
+### GitHub Stats 📊
 
 <p align="center">
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tovincent&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats" width="45%">
@@ -53,13 +53,13 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
   <img alt="My current contribution streak" src="http://github-readme-streak-stats.herokuapp.com?user=tovincent&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%">
 </p>
 
-### Hobbies
-I am a pianist since 2006 but also an occasional archer, basketball and table tennis player.  
-In addition to IT audit, data science and artificial intelligence, I am also very interested in economy, finance & blockchain technology.  
+### Hobbies 🎨
+I am a pianist 🎹 since 2006 but also an occasional archer 🎯, basketball 🏀 and table tennis 🏓 player.  
+In addition to IT audit, data science and artificial intelligence, I am also very interested in economy 🏛️, finance 📈 & blockchain technology ⛓️  
 By the way, I am a governor in the [**@Algorand**](https://algorand.com) blockchain and an ambassador for the [**@Algorand Foundation**](https://www.algorand.foundation/) during my freetime.  
 Thus, I’m administrator of [**@AlgorandFrance.com**](https://algorandfrance.com).  
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile! 🙏
 
 <p align="center"> 
    Visitors Count<br>
