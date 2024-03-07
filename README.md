@@ -55,7 +55,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 
 ### Hobbies 🎨
 I am a pianist 🎹 since 2006 but also an occasional archer 🎯, basketball 🏀 and table tennis 🏓 player.  
-In addition to IT audit, data science and artificial intelligence, I am also very interested in economy 🏛️, finance 📈 & blockchain technology ⛓️  
+In addition to IT audit, data science and artificial intelligence, I am also very interested in economy 🏛️, finance 📈 & blockchain technology ⛓️.  
 By the way, I am a governor in the [**@Algorand**](https://algorand.com) blockchain and an ambassador for the [**@Algorand Foundation**](https://www.algorand.foundation/) during my freetime.  
 Thus, I’m administrator of [**@AlgorandFrance.com**](https://algorandfrance.com).  
 
