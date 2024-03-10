@@ -29,7 +29,7 @@ I am also planning to pursue in PhD in Artificial Intelligence with the French C
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/></a>
 
-**Databases** : PostgreSQL, MariaDB, MongoDB, Cassandra  
+**Databases** : PostgreSQL, MariaDB, MongoDB, Cassandra, SQLite  
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent-300x245.png" alt="mariadb" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongodb" width="40" height="40"/></a>
