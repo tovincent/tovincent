@@ -6,7 +6,8 @@ My work mainly focus on development of innovative approaches to Audit/Risk Manag
 ### Education 🎓
 Currently a PhD Student in Artificial Intelligence at SDOSE Doctoral School ([**@Paris Dauphine University – PSL**](https://dauphine.psl.eu/en/), [**@Mines Paris - PSL**](https://www.minesparis.psl.eu/en/home/)), DRM-UMR CNRS 7088, my research project focus on the "Integration Strategy and Governance of Artificial Intelligence in Internal Audit: Methods, Challenges, and Opportunities", funded by Amundi Asset Management through the French CIFRE program. 🤖
 
-Previously, I graduated from the Master’s Degree in Network Industries and Digital Economy co-accredited by French top 2 universities (Paris Dauphine University - PSL & [**@Paris-Saclay University**](https://www.universite-paris-saclay.fr/en)) and French top 3 engineering schools ([**@Ecole Polytechnique**](https://www.polytechnique.edu/), [**@Centrale Supélec**](https://www.centralesupelec.fr/en) & [**@Télécom Paris**](https://www.telecom-paris.fr/en/home)).  
+Previously, I graduated from the Master’s Degree in Network Industries and Digital Economy co-accredited by French top 2 universities (Paris Dauphine University - PSL & [**@Paris-Saclay University**](https://www.universite-paris-saclay.fr/en)) and French top 3 engineering schools ([**@Ecole Polytechnique**](https://www.polytechnique.edu/), [**@Centrale Supélec**](https://www.centralesupelec.fr/en) & [**@Télécom Paris**](https://www.telecom-paris.fr/en/home)).
+
 Additionally, I am an alumni of Paris Dauphine University – PSL where I graduated a Master's Degree in Computer Science with an IT Audit specialty.  
 
 ### Programming and Tools 🛠️
@@ -24,7 +25,7 @@ Additionally, I am an alumni of Paris Dauphine University – PSL where I gradua
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
 <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6448bf6f0640203c982ca15f/6448bf6f06402069cd2ca40f_7.png" alt="qlikview" width="40" height="40"/></a>
-<a href="https://dataviv.net/fr/le-sphinx" target="_blank" rel="noreferrer"> <img src="https://fr.wikipedia.org/wiki/Le_Sphinx_%28%C3%A9diteur_de_logiciel%29#/media/Fichier:Logo_Le_Sphinx.png" alt="sphinxdataviv" width="40" height="40"/></a>
+<a href="https://dataviv.net/fr/le-sphinx" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Le_Sphinx.png" alt="sphinxdataviv" width="40" height="40"/></a>
 
 **Frameworks** : Django, FastAPI  
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
